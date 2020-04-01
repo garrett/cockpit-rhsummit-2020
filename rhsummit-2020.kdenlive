@@ -1,14 +1,249 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" LC_NUMERIC="en_IE.UTF-8" producer="main_bin" version="6.21.0" root="/home/garrett/Project/cockpit/video-2020/rhsummit-2020">
- <profile frame_rate_num="15" sample_aspect_num="1" display_aspect_den="928" colorspace="709" progressive="1" description="1344x928 15.00fps" display_aspect_num="1344" frame_rate_den="1" width="1344" height="928" sample_aspect_den="1"/>
- <producer title="Anonymous Submission" id="producer0" in="00:00:00.000" out="00:03:27.867">
-  <property name="length">3119</property>
+<mlt title="Anonymous Submission" LC_NUMERIC="en_IE.UTF-8" producer="main_bin" version="6.21.0" root="/var/home/garrett/Project/cockpit/video-2020/rhsummit-2020">
+ <profile frame_rate_num="30" sample_aspect_num="1" display_aspect_den="1080" colorspace="709" progressive="1" description="1552x1080 30.00fps" display_aspect_num="1552" frame_rate_den="1" width="1552" height="1080" sample_aspect_den="1"/>
+ <producer title="Anonymous Submission" id="producer0" in="00:00:00.000" out="00:00:22.533">
+  <property name="length">677</property>
   <property name="eof">pause</property>
-  <property name="resource">raw/web-console-selinux-ansible-v1.ogv</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-1-prologue.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">123591</property>
+  <property name="kdenlive:file_hash">93bd18b4966b053374307290375563e9</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer1" in="00:00:00.000" out="00:00:20.833">
+  <property name="length">626</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-4.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">114999</property>
+  <property name="kdenlive:file_hash">6b1f014c6dcc76e7c98eb2b3770cd2fc</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer2" in="00:00:00.000" out="00:00:23.800">
+  <property name="length">715</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-2.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">126232</property>
+  <property name="kdenlive:file_hash">80e421f4da8b1c6e08fab174b523dd5f</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer3" in="00:00:00.000" out="00:00:07.767">
+  <property name="length">234</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-7.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">43656</property>
+  <property name="kdenlive:file_hash">4b95a1ceae04751299c3216a4f2e4851</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer4" in="00:00:00.000" out="00:00:41.500">
+  <property name="length">1246</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-5.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">226100</property>
+  <property name="kdenlive:file_hash">de29afebf3f0b625dc6283f375b487af</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer5" in="00:00:00.000" out="00:00:09.933">
+  <property name="length">299</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-6.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">12</property>
+  <property name="kdenlive:file_size">58449</property>
+  <property name="kdenlive:file_hash">a5fd459b64c3068defaaac9149f74446</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer6" in="00:00:00.000" out="00:00:31.700">
+  <property name="length">952</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-3.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">171767</property>
+  <property name="kdenlive:file_hash">d2bb30782917e7e3d588b527b28d94cb</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer7" in="00:00:00.000" out="00:00:03.333">
+  <property name="length">101</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-8.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_size">20485</property>
+  <property name="kdenlive:file_hash">10c1c7d7d8dcd77f5cc58c8a568af8a2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer8" in="00:00:00.000" out="00:00:12.633">
+  <property name="length">380</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-9.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:file_size">72010</property>
+  <property name="kdenlive:file_hash">41f249b5938a87ff65e5163e9b720e39</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer9" in="00:00:00.000" out="00:03:27.900">
+  <property name="length">6238</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/raw/web-console-selinux-ansible-v1.ogv</property>
   <property name="audio_index">2</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">0</property>
   <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">20207916</property>
+  <property name="kdenlive:file_hash">f382acb66a6a8f0c63c40b1fea4b2ee6</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:zone_in">2855</property>
+  <property name="kdenlive:zone_out">3119</property>
   <property name="meta.media.nb_streams">3</property>
   <property name="meta.media.1.stream.type">video</property>
   <property name="meta.media.1.stream.frame_rate">-nan</property>
@@ -31,12 +266,8 @@
   <property name="meta.media.2.codec.name">vorbis</property>
   <property name="meta.media.2.codec.long_name">Vorbis</property>
   <property name="meta.media.2.codec.bit_rate">499821</property>
-  <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:id">2</property>
   <property name="meta.media.frame_rate_num">15</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">709</property>
@@ -44,262 +275,11 @@
   <property name="meta.media.width">1344</property>
   <property name="meta.media.height">928</property>
   <property name="meta.media.color_range">mpeg</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">20207916</property>
-  <property name="kdenlive:file_hash">f382acb66a6a8f0c63c40b1fea4b2ee6</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="global_feed">1</property>
-  <property name="kdenlive:zone_in">2855</property>
-  <property name="kdenlive:zone_out">3119</property>
  </producer>
- <producer id="producer1" in="00:00:00.000" out="00:00:06.333">
-  <property name="length">96</property>
+ <producer title="Anonymous Submission" id="producer10" in="00:00:00.000" out="00:00:11.067">
+  <property name="length">333</property>
   <property name="eof">pause</property>
-  <property name="resource">cards/rhsummit-2020-placeholder.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">1344</property>
-  <property name="meta.media.height">928</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">6</property>
-  <property name="kdenlive:file_size">19861</property>
-  <property name="kdenlive:file_hash">ce0a8e40656f340a33eca7e3e29b9c2c</property>
- </producer>
- <producer title="Anonymous Submission" id="producer2" in="00:00:00.000" out="00:00:22.467">
-  <property name="length">338</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-1-prologue.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">7</property>
-  <property name="kdenlive:file_size">123591</property>
-  <property name="kdenlive:file_hash">93bd18b4966b053374307290375563e9</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer3" in="00:00:00.000" out="00:00:23.733">
-  <property name="length">357</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-2.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">8</property>
-  <property name="kdenlive:file_size">126232</property>
-  <property name="kdenlive:file_hash">80e421f4da8b1c6e08fab174b523dd5f</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer4" in="00:00:00.000" out="00:00:31.667">
-  <property name="length">476</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-3.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">9</property>
-  <property name="kdenlive:file_size">171767</property>
-  <property name="kdenlive:file_hash">d2bb30782917e7e3d588b527b28d94cb</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer5" in="00:00:00.000" out="00:00:20.800">
-  <property name="length">313</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-4.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">10</property>
-  <property name="kdenlive:file_size">114999</property>
-  <property name="kdenlive:file_hash">6b1f014c6dcc76e7c98eb2b3770cd2fc</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer6" in="00:00:00.000" out="00:00:41.467">
-  <property name="length">623</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-5.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">11</property>
-  <property name="kdenlive:file_size">226100</property>
-  <property name="kdenlive:file_hash">de29afebf3f0b625dc6283f375b487af</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer7" in="00:00:00.000" out="00:00:09.867">
-  <property name="length">149</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-6.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">12</property>
-  <property name="kdenlive:file_size">58449</property>
-  <property name="kdenlive:file_hash">a5fd459b64c3068defaaac9149f74446</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer8" in="00:00:00.000" out="00:00:07.733">
-  <property name="length">117</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-7.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">13</property>
-  <property name="kdenlive:file_size">43656</property>
-  <property name="kdenlive:file_hash">4b95a1ceae04751299c3216a4f2e4851</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer9" in="00:00:00.000" out="00:00:03.267">
-  <property name="length">50</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-8.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">14</property>
-  <property name="kdenlive:file_size">20485</property>
-  <property name="kdenlive:file_hash">10c1c7d7d8dcd77f5cc58c8a568af8a2</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer10" in="00:00:00.000" out="00:00:12.600">
-  <property name="length">190</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-9.ogg</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">16000</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">vorbis</property>
-  <property name="meta.media.0.codec.long_name">Vorbis</property>
-  <property name="meta.media.0.codec.bit_rate">56000</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">15</property>
-  <property name="kdenlive:file_size">72010</property>
-  <property name="kdenlive:file_hash">41f249b5938a87ff65e5163e9b720e39</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="producer11" in="00:00:00.000" out="00:00:11.000">
-  <property name="length">166</property>
-  <property name="eof">pause</property>
-  <property name="resource">audio/selinux-10.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-10.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -321,10 +301,58 @@
   <property name="kdenlive:file_hash">9ab0456f065b9aa20ff06cd1367fe87b</property>
   <property name="global_feed">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer12" in="00:00:00.000" out="00:00:17.667">
-  <property name="length">266</property>
+ <producer title="Anonymous Submission" id="producer11" in="00:00:00.000" out="00:03:31.433">
+  <property name="length">6344</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-11-epilogue.ogg</property>
+  <property name="resource">raw/web-console-selinux-ansible-v2.ogv</property>
+  <property name="audio_index">2</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">31122382</property>
+  <property name="kdenlive:file_hash">6455bd78f849c9ecebe55840b557e4b6</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-nan</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1552</property>
+  <property name="meta.media.1.codec.height">1088</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">30</property>
+  <property name="meta.media.1.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">709</property>
+  <property name="meta.media.1.codec.name">theora</property>
+  <property name="meta.media.1.codec.long_name">Theora</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.recordMyDesktop.markup">0.3.8.1</property>
+  <property name="meta.media.2.stream.type">audio</property>
+  <property name="meta.media.2.codec.sample_fmt">fltp</property>
+  <property name="meta.media.2.codec.sample_rate">44100</property>
+  <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.name">vorbis</property>
+  <property name="meta.media.2.codec.long_name">Vorbis</property>
+  <property name="meta.media.2.codec.bit_rate">499821</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1552</property>
+  <property name="meta.media.height">1088</property>
+  <property name="meta.media.color_range">mpeg</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer12" in="00:00:00.000" out="00:00:17.667">
+  <property name="length">531</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-11-epilogue.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -346,8 +374,27 @@
   <property name="kdenlive:file_hash">7c7ace1cfda244b37bf0aa34b5db291e</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer title="Anonymous Submission" id="producer13" in="00:00:00.000" out="00:00:05.900">
+  <property name="length">178</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/cards/rhsummit-2020-placeholder.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1344</property>
+  <property name="meta.media.height">928</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">53112</property>
+  <property name="kdenlive:file_hash">a113b1e584e72baa630730a1e30450f2</property>
+  <property name="global_feed">1</property>
+ </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">0</property>
+  <property name="kdenlive:docproperties.activeTrack">4</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.decimalPoint">.</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -359,58 +406,65 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.groups">[
-    {
-        "children": [
-            {
-                "data": "2:0",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:0",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    }
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">19.12.3</property>
-  <property name="kdenlive:docproperties.position">460</property>
+  <property name="kdenlive:docproperties.position">2577</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/garrett/.var/app/org.kde.kdenlive/data/kdenlive/profiles/customprofile2</property>
+  <property name="kdenlive:docproperties.profile">/home/garrett/.var/app/org.kde.kdenlive/data/kdenlive/profiles/customprofile3</property>
   <property name="kdenlive:docproperties.proxyextension"/>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.scrollPos">2085</property>
+  <property name="kdenlive:docproperties.renderaudioquality">6</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfield">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">WebM - the widespread free format (VP8/Vorbis)</property>
+  <property name="kdenlive:docproperties.renderquality">23</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">464</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">666</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/home/garrett/Videos/rhsummit-2020-test-4.webm</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:docproperties.scrollPos">4846</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">0.99</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.videoTarget">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
-  <entry producer="producer0" in="00:00:00.000" out="00:03:27.867"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:00:06.333"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:00:22.467"/>
-  <entry producer="producer3" in="00:00:00.000" out="00:00:23.733"/>
-  <entry producer="producer4" in="00:00:00.000" out="00:00:31.667"/>
-  <entry producer="producer5" in="00:00:00.000" out="00:00:20.800"/>
-  <entry producer="producer6" in="00:00:00.000" out="00:00:41.467"/>
-  <entry producer="producer7" in="00:00:00.000" out="00:00:09.867"/>
-  <entry producer="producer8" in="00:00:00.000" out="00:00:07.733"/>
-  <entry producer="producer9" in="00:00:00.000" out="00:00:03.267"/>
-  <entry producer="producer10" in="00:00:00.000" out="00:00:12.600"/>
-  <entry producer="producer11" in="00:00:00.000" out="00:00:11.000"/>
+  <entry producer="producer0" in="00:00:00.000" out="00:00:22.533"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:20.833"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:23.800"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:00:07.767"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:41.500"/>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:09.933"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:31.700"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:03.333"/>
+  <entry producer="producer8" in="00:00:00.000" out="00:00:12.633"/>
+  <entry producer="producer9" in="00:00:00.000" out="00:03:27.900"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:00:11.067"/>
+  <entry producer="producer11" in="00:00:00.000" out="00:03:31.433"/>
   <entry producer="producer12" in="00:00:00.000" out="00:00:17.667"/>
+  <entry producer="producer13" in="00:00:00.000" out="00:00:03.167"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="00:36:51.867">
+ <producer id="black_track" in="00:00:00.000" out="00:20:11.500">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -419,10 +473,10 @@
   <property name="mlt_image_format">rgb24a</property>
   <property name="set.test_audio">0</property>
  </producer>
- <producer title="Anonymous Submission" id="producer13" in="00:00:00.000" out="00:00:22.467">
-  <property name="length">338</property>
+ <producer title="Anonymous Submission" id="producer14" in="00:00:00.000" out="00:00:22.533">
+  <property name="length">677</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-1-prologue.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-1-prologue.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -447,10 +501,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer14" in="00:00:00.000" out="00:00:23.733">
-  <property name="length">357</property>
+ <producer title="Anonymous Submission" id="producer15" in="00:00:00.000" out="00:00:23.800">
+  <property name="length">715</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-2.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-2.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -475,10 +529,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer15" in="00:00:00.000" out="00:00:31.667">
-  <property name="length">476</property>
+ <producer title="Anonymous Submission" id="producer16" in="00:00:00.000" out="00:00:31.700">
+  <property name="length">952</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-3.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-3.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -503,10 +557,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer16" in="00:00:00.000" out="00:00:20.800">
-  <property name="length">313</property>
+ <producer title="Anonymous Submission" id="producer17" in="00:00:00.000" out="00:00:20.833">
+  <property name="length">626</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-4.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-4.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -531,10 +585,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer17" in="00:00:00.000" out="00:00:41.467">
-  <property name="length">623</property>
+ <producer title="Anonymous Submission" id="producer18" in="00:00:00.000" out="00:00:41.500">
+  <property name="length">1246</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-5.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-5.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -559,10 +613,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer18" in="00:00:00.000" out="00:00:09.867">
-  <property name="length">149</property>
+ <producer title="Anonymous Submission" id="producer19" in="00:00:00.000" out="00:00:09.933">
+  <property name="length">299</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-6.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-6.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -587,10 +641,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer19" in="00:00:00.000" out="00:00:07.733">
-  <property name="length">117</property>
+ <producer title="Anonymous Submission" id="producer20" in="00:00:00.000" out="00:00:07.767">
+  <property name="length">234</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-7.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-7.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -615,10 +669,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer20" in="00:00:00.000" out="00:00:03.267">
-  <property name="length">50</property>
+ <producer title="Anonymous Submission" id="producer21" in="00:00:00.000" out="00:00:03.333">
+  <property name="length">101</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-8.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-8.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -643,10 +697,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer21" in="00:00:00.000" out="00:00:12.600">
-  <property name="length">190</property>
+ <producer title="Anonymous Submission" id="producer22" in="00:00:00.000" out="00:00:12.633">
+  <property name="length">380</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-9.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-9.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -671,10 +725,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer22" in="00:00:00.000" out="00:00:11.000">
-  <property name="length">166</property>
+ <producer title="Anonymous Submission" id="producer23" in="00:00:00.000" out="00:00:11.067">
+  <property name="length">333</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-10.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-10.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -699,10 +753,10 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer23" in="00:00:00.000" out="00:00:17.667">
-  <property name="length">266</property>
+ <producer title="Anonymous Submission" id="producer24" in="00:00:00.000" out="00:00:17.667">
+  <property name="length">531</property>
   <property name="eof">pause</property>
-  <property name="resource">audio/selinux-11-epilogue.ogg</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-11-epilogue.ogg</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -729,288 +783,58 @@
  </producer>
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:00:00.533"/>
-  <entry producer="producer13" in="00:00:02.000" out="00:00:06.333">
+  <entry producer="producer14" in="00:00:01.833" out="00:00:02.900">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter0">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="kdenlive:collapsed">0</property>
-    <property name="results"/>
-   </filter>
   </entry>
-  <blank length="00:00:01.467"/>
-  <entry producer="producer13" in="00:00:07.467" out="00:00:21.800">
+  <entry producer="producer14" in="00:00:03.367" out="00:00:06.500">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <property name="kdenlive:hide_keyframes">0</property>
-   <filter id="filter1">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="level">00:00:07.467~=-100;00:00:07.600~=0</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">volume</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter2">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <blank length="00:00:01.867"/>
-  <entry producer="producer14" in="00:00:01.267" out="00:00:06.200">
-   <property name="kdenlive:id">8</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter3">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:01.400"/>
-  <entry producer="producer14" in="00:00:06.867" out="00:00:23.400">
-   <property name="kdenlive:id">8</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter4">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer15" in="00:00:00.600" out="00:00:11.667">
-   <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter5">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:01.933"/>
-  <entry producer="producer15" in="00:00:12.667" out="00:00:23.067">
-   <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter6">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:00.267"/>
-  <entry producer="producer15" in="00:00:24.133" out="00:00:27.933">
-   <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter7">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
+  <blank length="00:00:01.667"/>
+  <entry producer="producer14" in="00:00:07.133" out="00:00:22.533">
+   <property name="kdenlive:id">7</property>
   </entry>
   <blank length="00:00:00.933"/>
-  <entry producer="producer15" in="00:00:28.000" out="00:00:30.133">
+  <entry producer="producer15" in="00:00:01.033" out="00:00:23.800">
+   <property name="kdenlive:id">8</property>
+  </entry>
+  <entry producer="producer16" in="00:00:00.000" out="00:00:31.700">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter8">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <blank length="00:00:03.067"/>
-  <entry producer="producer16" in="00:00:00.800" out="00:00:04.800">
+  <entry producer="producer17" in="00:00:00.000" out="00:00:20.833">
    <property name="kdenlive:id">10</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter9">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <blank length="00:00:00.667"/>
-  <entry producer="producer16" in="00:00:04.867" out="00:00:15.000">
-   <property name="kdenlive:id">10</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter10">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer16" in="00:00:15.467" out="00:00:19.867">
-   <property name="kdenlive:id">10</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter11">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer17" in="00:00:00.000" out="00:00:39.067">
+  <entry producer="producer18" in="00:00:00.000" out="00:00:41.500">
    <property name="kdenlive:id">11</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter12">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <entry producer="producer17" in="00:00:39.133" out="00:00:40.800">
-   <property name="kdenlive:id">11</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter13">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:02.667"/>
-  <entry producer="producer18" in="00:00:00.000" out="00:00:03.267">
+  <entry producer="producer19" in="00:00:00.000" out="00:00:09.933">
    <property name="kdenlive:id">12</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter14">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <blank length="00:00:03.067"/>
-  <entry producer="producer18" in="00:00:03.333" out="00:00:09.867">
-   <property name="kdenlive:id">12</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter15">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:03.933"/>
-  <entry producer="producer19" in="00:00:00.000" out="00:00:07.733">
+  <entry producer="producer20" in="00:00:00.000" out="00:00:07.767">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter16">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results">L: -21.974860	R: 4.598304	P 0.407483</property>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <blank length="00:00:01.000"/>
-  <entry producer="producer20" in="00:00:00.000" out="00:00:03.267">
+  <entry producer="producer21" in="00:00:00.000" out="00:00:03.333">
    <property name="kdenlive:id">14</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter17">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results">L: -23.543725	R: 0.000000	P 0.367563</property>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <entry producer="producer21" in="00:00:00.000" out="00:00:12.600">
+  <blank length="00:00:05.000"/>
+  <entry producer="producer22" in="00:00:00.000" out="00:00:12.633">
    <property name="kdenlive:id">15</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter18">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results">L: -22.431657	R: 2.053879	P 0.420359</property>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <entry producer="producer22" in="00:00:00.000" out="00:00:09.267">
+  <blank length="00:00:01.433"/>
+  <entry producer="producer23" in="00:00:00.000" out="00:00:11.067">
    <property name="kdenlive:id">16</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter19">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <entry producer="producer23" in="00:00:00.600" out="00:00:15.667">
+  <blank length="00:00:03.233"/>
+  <entry producer="producer24" in="00:00:00.000" out="00:00:17.667">
    <property name="kdenlive:id">17</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter20">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <blank length="00:00:00.400"/>
-  <entry producer="producer23" in="00:00:15.733" out="00:00:17.400">
-   <property name="kdenlive:id">17</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter21">
-    <property name="program">-23</property>
-    <property name="mlt_service">loudness</property>
-    <property name="kdenlive_id">loudness</property>
-    <property name="results"/>
-    <property name=""/>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <filter id="filter22">
+  <filter id="filter0">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter23">
+  <filter id="filter1">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
@@ -1021,107 +845,592 @@
  <playlist id="playlist1">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor0" in="00:00:00.000" out="00:03:30.733">
+ <tractor id="tractor0" in="00:00:00.000" out="00:03:31.467">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">64</property>
   <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Clean audio</property>
+  <property name="kdenlive:track_name">Clean audio redo</property>
   <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec">0</property>
-  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active"/>
   <track hide="video" producer="playlist0"/>
   <track hide="video" producer="playlist1"/>
-  <filter id="filter24">
+  <filter id="filter2">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
   </filter>
  </tractor>
- <producer title="Anonymous Submission" id="producer24" in="00:00:00.000" out="00:03:27.867">
-  <property name="length">3119</property>
+ <producer title="Anonymous Submission" id="producer25" in="00:00:00.000" out="00:00:22.533">
+  <property name="length">677</property>
   <property name="eof">pause</property>
-  <property name="resource">raw/web-console-selinux-ansible-v1.ogv</property>
-  <property name="audio_index">2</property>
-  <property name="video_index">1</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-1-prologue.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
   <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
   <property name="kdenlive:clipname"/>
-  <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">20207916</property>
-  <property name="kdenlive:file_hash">f382acb66a6a8f0c63c40b1fea4b2ee6</property>
   <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">123591</property>
+  <property name="kdenlive:file_hash">93bd18b4966b053374307290375563e9</property>
   <property name="global_feed">1</property>
-  <property name="kdenlive:zone_in">2855</property>
-  <property name="kdenlive:zone_out">3119</property>
   <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">3</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">-nan</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1344</property>
-  <property name="meta.media.1.codec.height">928</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">15</property>
-  <property name="meta.media.1.codec.pix_fmt">yuv420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.colorspace">709</property>
-  <property name="meta.media.1.codec.name">theora</property>
-  <property name="meta.media.1.codec.long_name">Theora</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.recordMyDesktop.markup">0.3.8.1</property>
-  <property name="meta.media.2.stream.type">audio</property>
-  <property name="meta.media.2.codec.sample_fmt">fltp</property>
-  <property name="meta.media.2.codec.sample_rate">44100</property>
-  <property name="meta.media.2.codec.channels">2</property>
-  <property name="meta.media.2.codec.name">vorbis</property>
-  <property name="meta.media.2.codec.long_name">Vorbis</property>
-  <property name="meta.media.2.codec.bit_rate">499821</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">15</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">709</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.width">1344</property>
-  <property name="meta.media.height">928</property>
-  <property name="meta.media.color_range">mpeg</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer26" in="00:00:00.000" out="00:00:23.800">
+  <property name="length">715</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-2.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">126232</property>
+  <property name="kdenlive:file_hash">80e421f4da8b1c6e08fab174b523dd5f</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer27" in="00:00:00.000" out="00:00:31.700">
+  <property name="length">952</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-3.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">171767</property>
+  <property name="kdenlive:file_hash">d2bb30782917e7e3d588b527b28d94cb</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer28" in="00:00:00.000" out="00:00:20.833">
+  <property name="length">626</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-4.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">114999</property>
+  <property name="kdenlive:file_hash">6b1f014c6dcc76e7c98eb2b3770cd2fc</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer29" in="00:00:00.000" out="00:00:41.500">
+  <property name="length">1246</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-5.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">226100</property>
+  <property name="kdenlive:file_hash">de29afebf3f0b625dc6283f375b487af</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer30" in="00:00:00.000" out="00:00:09.933">
+  <property name="length">299</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-6.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">12</property>
+  <property name="kdenlive:file_size">58449</property>
+  <property name="kdenlive:file_hash">a5fd459b64c3068defaaac9149f74446</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer31" in="00:00:00.000" out="00:00:07.767">
+  <property name="length">234</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-7.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">43656</property>
+  <property name="kdenlive:file_hash">4b95a1ceae04751299c3216a4f2e4851</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer32" in="00:00:00.000" out="00:00:03.333">
+  <property name="length">101</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-8.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_size">20485</property>
+  <property name="kdenlive:file_hash">10c1c7d7d8dcd77f5cc58c8a568af8a2</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer33" in="00:00:00.000" out="00:00:12.633">
+  <property name="length">380</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-9.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:file_size">72010</property>
+  <property name="kdenlive:file_hash">41f249b5938a87ff65e5163e9b720e39</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer34" in="00:00:00.000" out="00:00:11.067">
+  <property name="length">333</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-10.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">16</property>
+  <property name="kdenlive:file_size">63242</property>
+  <property name="kdenlive:file_hash">9ab0456f065b9aa20ff06cd1367fe87b</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer35" in="00:00:00.000" out="00:00:17.667">
+  <property name="length">531</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/audio/selinux-11-epilogue.ogg</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">16000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">56000</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">android-audio-recorder</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">17</property>
+  <property name="kdenlive:file_size">98900</property>
+  <property name="kdenlive:file_hash">7c7ace1cfda244b37bf0aa34b5db291e</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer24" in="00:00:00.000" out="00:03:10.267">
-   <property name="kdenlive:id">2</property>
-   <filter id="filter25">
-    <property name="channel">-1</property>
-    <property name="split">00:00:00.000=1</property>
-    <property name="mlt_service">panner</property>
-    <property name="kdenlive_id">audiobalance</property>
-    <property name="start">0.5</property>
+  <blank length="00:00:00.267"/>
+  <entry producer="producer25" in="00:00:01.000" out="00:00:03.167">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter3">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="kdenlive:collapsed">0</property>
+    <property name="results"/>
+   </filter>
+  </entry>
+  <blank length="00:00:00.733"/>
+  <entry producer="producer25" in="00:00:03.733" out="00:00:10.900">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter4">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">00:00:03.733~=-100;00:00:03.767~=-89.1377;00:00:07.600~=0</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="kdenlive:collapsed">0</property>
+    <property name="disable">1</property>
+   </filter>
+   <filter id="filter5">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer24" in="00:03:10.333" out="00:03:27.867">
-   <property name="kdenlive:id">2</property>
-   <filter id="filter26">
-    <property name="channel">-1</property>
-    <property name="split">00:03:10.333=1</property>
-    <property name="mlt_service">panner</property>
-    <property name="kdenlive_id">audiobalance</property>
-    <property name="start">0.5</property>
+  <blank length="00:00:00.933"/>
+  <entry producer="producer26" in="00:00:00.633" out="00:00:03.100">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter6">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <filter id="filter27">
+  <blank length="00:00:00.700"/>
+  <entry producer="producer26" in="00:00:03.433" out="00:00:11.700">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter7">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer27" in="00:00:00.300" out="00:00:05.833">
+   <property name="kdenlive:id">9</property>
+   <filter id="filter8">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.967"/>
+  <entry producer="producer27" in="00:00:06.333" out="00:00:11.533">
+   <property name="kdenlive:id">9</property>
+   <filter id="filter9">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.133"/>
+  <entry producer="producer27" in="00:00:12.067" out="00:00:13.967">
+   <property name="kdenlive:id">9</property>
+   <filter id="filter10">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.467"/>
+  <entry producer="producer27" in="00:00:14.000" out="00:00:15.067">
+   <property name="kdenlive:id">9</property>
+   <filter id="filter11">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:01.533"/>
+  <entry producer="producer28" in="00:00:00.400" out="00:00:02.400">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter12">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.333"/>
+  <entry producer="producer28" in="00:00:02.433" out="00:00:07.500">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter13">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer28" in="00:00:07.733" out="00:00:09.933">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter14">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer29" in="00:00:00.000" out="00:00:19.533">
+   <property name="kdenlive:id">11</property>
+   <filter id="filter15">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer29" in="00:00:19.567" out="00:00:20.400">
+   <property name="kdenlive:id">11</property>
+   <filter id="filter16">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:01.333"/>
+  <entry producer="producer30" in="00:00:00.000" out="00:00:01.633">
+   <property name="kdenlive:id">12</property>
+   <filter id="filter17">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:01.533"/>
+  <entry producer="producer30" in="00:00:01.667" out="00:00:04.933">
+   <property name="kdenlive:id">12</property>
+   <filter id="filter18">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:01.967"/>
+  <entry producer="producer31" in="00:00:00.000" out="00:00:03.867">
+   <property name="kdenlive:id">13</property>
+   <filter id="filter19">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results">L: -21.974860	R: 4.598304	P 0.407483</property>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.500"/>
+  <entry producer="producer32" in="00:00:00.000" out="00:00:01.633">
+   <property name="kdenlive:id">14</property>
+   <filter id="filter20">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results">L: -23.543725	R: 0.000000	P 0.367563</property>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer33" in="00:00:00.000" out="00:00:06.300">
+   <property name="kdenlive:id">15</property>
+   <filter id="filter21">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results">L: -22.431657	R: 2.053879	P 0.420359</property>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer34" in="00:00:00.000" out="00:00:04.633">
+   <property name="kdenlive:id">16</property>
+   <filter id="filter22">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer35" in="00:00:00.300" out="00:00:07.833">
+   <property name="kdenlive:id">17</property>
+   <filter id="filter23">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.200"/>
+  <entry producer="producer35" in="00:00:07.867" out="00:00:08.700">
+   <property name="kdenlive:id">17</property>
+   <filter id="filter24">
+    <property name="program">-23</property>
+    <property name="mlt_service">loudness</property>
+    <property name="kdenlive_id">loudness</property>
+    <property name="results"/>
+    <property name=""/>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <filter id="filter25">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter28">
+  <filter id="filter26">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
@@ -1132,25 +1441,25 @@
  <playlist id="playlist3">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor1" in="00:00:00.000" out="00:03:27.867">
+ <tractor id="tractor1" in="00:00:00.000" out="00:01:45.367">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">64</property>
   <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Rough audio</property>
+  <property name="kdenlive:track_name">Clean audio</property>
   <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:audio_rec">0</property>
   <property name="kdenlive:timeline_active">1</property>
   <track hide="both" producer="playlist2"/>
   <track hide="both" producer="playlist3"/>
-  <filter id="filter29">
+  <filter id="filter27">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
   </filter>
  </tractor>
- <producer title="Anonymous Submission" id="producer25" in="00:00:00.000" out="00:03:27.867">
-  <property name="length">3119</property>
+ <producer title="Anonymous Submission" id="producer36" in="00:00:00.000" out="00:03:27.900">
+  <property name="length">6238</property>
   <property name="eof">pause</property>
-  <property name="resource">raw/web-console-selinux-ansible-v1.ogv</property>
+  <property name="resource">/home/garrett/Project/cockpit/video-2020/rhsummit-2020/raw/web-console-selinux-ansible-v1.ogv</property>
   <property name="audio_index">2</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">0</property>
@@ -1197,73 +1506,181 @@
   <property name="meta.media.width">1344</property>
   <property name="meta.media.height">928</property>
   <property name="meta.media.color_range">mpeg</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="set.test_audio">1</property>
-  <property name="set.test_image">0</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
  </producer>
  <playlist id="playlist4">
-  <entry producer="producer25" in="00:00:00.000" out="00:03:10.267">
+  <property name="kdenlive:audio_track">1</property>
+  <entry producer="producer36" in="00:00:00.000" out="00:01:35.133">
    <property name="kdenlive:id">2</property>
-  </entry>
-  <entry producer="producer25" in="00:03:10.333" out="00:03:25.933">
-   <property name="kdenlive:id">2</property>
-  </entry>
-  <entry producer="producer25" in="00:03:10.867" out="00:03:16.667">
-   <property name="kdenlive:id">2</property>
-   <filter id="filter30" in="00:03:15.933" out="00:03:16.667">
-    <property name="start">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_to_black</property>
-    <property name="end">0</property>
-    <property name="alpha">1</property>
+   <filter id="filter28">
+    <property name="channel">-1</property>
+    <property name="split">00:00:00.000=1</property>
+    <property name="mlt_service">panner</property>
+    <property name="kdenlive_id">audiobalance</property>
+    <property name="start">0.5</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
+  <entry producer="producer36" in="00:01:35.167" out="00:01:43.933">
+   <property name="kdenlive:id">2</property>
+   <filter id="filter29">
+    <property name="channel">-1</property>
+    <property name="split">00:03:10.333=1</property>
+    <property name="mlt_service">panner</property>
+    <property name="kdenlive_id">audiobalance</property>
+    <property name="start">0.5</property>
+   </filter>
+  </entry>
+  <filter id="filter30">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter31">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
  </playlist>
- <playlist id="playlist5"/>
- <tractor id="tractor2" in="00:00:00.000" out="00:03:31.800">
+ <playlist id="playlist5">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor2" in="00:00:00.000" out="00:01:43.933">
+  <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">64</property>
   <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Main video</property>
+  <property name="kdenlive:track_name">Rough audio</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
   <property name="kdenlive:timeline_active">1</property>
-  <track hide="audio" producer="playlist4"/>
-  <track hide="audio" producer="playlist5"/>
+  <track hide="both" producer="playlist4"/>
+  <track hide="both" producer="playlist5"/>
+  <filter id="filter32">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+  </filter>
  </tractor>
+ <producer title="Anonymous Submission" id="producer37" in="00:00:00.000" out="00:03:31.433">
+  <property name="length">6344</property>
+  <property name="eof">pause</property>
+  <property name="resource">raw/web-console-selinux-ansible-v2.ogv</property>
+  <property name="audio_index">2</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">31122382</property>
+  <property name="kdenlive:file_hash">6455bd78f849c9ecebe55840b557e4b6</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">3</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-nan</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1552</property>
+  <property name="meta.media.1.codec.height">1088</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">30</property>
+  <property name="meta.media.1.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">709</property>
+  <property name="meta.media.1.codec.name">theora</property>
+  <property name="meta.media.1.codec.long_name">Theora</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.recordMyDesktop.markup">0.3.8.1</property>
+  <property name="meta.media.2.stream.type">audio</property>
+  <property name="meta.media.2.codec.sample_fmt">fltp</property>
+  <property name="meta.media.2.codec.sample_rate">44100</property>
+  <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.name">vorbis</property>
+  <property name="meta.media.2.codec.long_name">Vorbis</property>
+  <property name="meta.media.2.codec.bit_rate">499821</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1552</property>
+  <property name="meta.media.height">1088</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
  <playlist id="playlist6">
-  <entry producer="producer1" in="00:00:00.000" out="00:00:06.333">
-   <property name="kdenlive:id">6</property>
-   <filter id="filter31">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000~=0 0 1344 928 1;00:00:05.133~=0 0 1344 928 1;00:00:06.333~=0 0 1344 928 0</property>
-    <property name="rotation">00:00:00.000~=0;00:00:05.133~=0;00:00:06.333~=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
+  <entry producer="producer37" in="00:00:00.000" out="00:03:31.433">
+   <property name="kdenlive:id">3</property>
+   <filter id="filter34">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">0</property>
+    <property name="left">0</property>
+    <property name="bottom">0</property>
+    <property name="right">0</property>
+    <property name="center">1</property>
+    <property name="center_bias">1552</property>
+    <property name="use_profile">1</property>
     <property name="kdenlive:collapsed">0</property>
+    <property name="disable">0</property>
    </filter>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:00:06.333">
+ <tractor id="tractor3" in="00:00:00.000" out="00:03:31.433">
   <property name="kdenlive:trackheight">64</property>
   <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Overlays</property>
+  <property name="kdenlive:track_name">New video</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
   <property name="kdenlive:timeline_active"/>
   <track hide="audio" producer="playlist6"/>
   <track hide="audio" producer="playlist7"/>
  </tractor>
- <tractor title="Anonymous Submission" id="tractor4" global_feed="1" in="00:00:00.000" out="00:36:51.867">
+ <playlist id="playlist8">
+  <entry producer="producer13" in="00:00:00.000" out="00:00:05.400">
+   <property name="kdenlive:id">6</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter33">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=0 0 1552 1080 1;00:00:04.733~=0 0 1552 1080 1;00:00:05.400~=0 0 1552 1080 0</property>
+    <property name="rotation">00:00:00.000=0;00:00:04.733~=0;00:00:05.400~=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist9"/>
+ <tractor id="tractor4" in="00:00:00.000" out="00:00:05.400">
+  <property name="kdenlive:trackheight">64</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Overlays</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active"/>
+  <track hide="audio" producer="playlist8"/>
+  <track hide="audio" producer="playlist9"/>
+ </tractor>
+ <tractor title="Anonymous Submission" id="tractor5" global_feed="1" in="00:00:00.000" out="00:20:11.500">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
   <track producer="tractor2"/>
   <track producer="tractor3"/>
+  <track producer="tractor4"/>
   <transition id="transition0">
    <property name="a_track">0</property>
    <property name="b_track">1</property>
@@ -1285,10 +1702,11 @@
   <transition id="transition2">
    <property name="a_track">0</property>
    <property name="b_track">3</property>
-   <property name="mlt_service">movit.overlay</property>
-   <property name="kdenlive_id">movit.overlay</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
+   <property name="sum">1</property>
   </transition>
   <transition id="transition3">
    <property name="a_track">0</property>
@@ -1298,21 +1716,29 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter32">
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">movit.overlay</property>
+   <property name="kdenlive_id">movit.overlay</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter36">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter33">
+  <filter id="filter37">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter34">
+  <filter id="filter35">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
   </filter>

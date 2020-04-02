@@ -420,7 +420,7 @@
   <property name="kdenlive:zone_out">5972</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">0</property>
+  <property name="kdenlive:docproperties.activeTrack">1</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.decimalPoint">.</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -432,10 +432,325 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.groups">[
+    {
+        "children": [
+            {
+                "data": "1:5243",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3809",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:4438",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3718",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3877",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1197",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1409",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1620",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1788",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:4203",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1068",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:2046",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1880",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:553",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3285",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:4099",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2677",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:4796",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:5776",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:5371",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:4669",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:489",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:277",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:890",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:5180",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:5968",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:435",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4864",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:560",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2821",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2524",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4027",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4753",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:5536",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4827",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2393",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:2548",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:864",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4144",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:725",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4060",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:2934",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4667",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:5361",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:2883",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:16",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2934",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4290",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2254",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:1158",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:124",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2086",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3401",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3156",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1259",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2016",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:1997",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:2016",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1327",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Selection"
+    }
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">19.12.3</property>
-  <property name="kdenlive:docproperties.position">5602</property>
+  <property name="kdenlive:docproperties.position">4012</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/garrett/.var/app/org.kde.kdenlive/data/kdenlive/profiles/customprofile3</property>
@@ -465,14 +780,14 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/garrett/Videos/rhsummit-2020-rough_cut.webm</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">5492</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">0.99</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:00:22.533"/>
@@ -938,6 +1253,7 @@
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:activeeffect">1</property>
   <entry producer="producer16" in="00:00:02.200" out="00:00:02.700">
    <property name="kdenlive:id">7</property>
   </entry>
@@ -1068,11 +1384,24 @@
   <entry producer="producer21" in="00:00:00.100" out="00:00:03.067">
    <property name="kdenlive:id">12</property>
   </entry>
-  <blank length="00:00:04.167"/>
-  <entry producer="producer21" in="00:00:03.600" out="00:00:09.100">
+  <blank length="00:00:04.400"/>
+  <entry producer="producer21" in="00:00:03.833" out="00:00:07.000">
    <property name="kdenlive:id">12</property>
   </entry>
-  <blank length="00:00:06.000"/>
+  <blank length="00:00:00.267"/>
+  <entry producer="producer21" in="00:00:07.667" out="00:00:09.100">
+   <property name="kdenlive:id">12</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter6">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">00:00:07.667~=-62;00:00:07.767~=0</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:06.367"/>
   <entry producer="producer22" in="00:00:01.333" out="00:00:05.867">
    <property name="kdenlive:id">13</property>
   </entry>
@@ -1108,19 +1437,44 @@
   <entry producer="producer26" in="00:00:15.867" out="00:00:17.667">
    <property name="kdenlive:id">17</property>
   </entry>
-  <filter id="filter6">
+  <filter id="filter7">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter7">
+  <filter id="filter8">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
+  </filter>
+  <filter id="filter9" out="00:03:21.400">
+   <property name="mlt_service">ladspa.1901</property>
+   <property name="kdenlive_id">ladspa.1901</property>
+   <property name="0">-6.844</property>
+   <property name="1">1.516</property>
+   <property name="2">-3.576</property>
+   <property name="wetness">1</property>
+   <property name="kdenlive:collapsed">0</property>
+   <property name="instances">1</property>
+   <property name="7[0]">3</property>
+   <property name="disable">0</property>
+  </filter>
+  <filter id="filter10" out="00:03:21.400">
+   <property name="target_loudness">-23</property>
+   <property name="window">3</property>
+   <property name="max_gain">15</property>
+   <property name="min_gain">-15</property>
+   <property name="max_rate">3</property>
+   <property name="in_loudness">-20.9819</property>
+   <property name="out_gain">-2.01814</property>
+   <property name="reset_count">34</property>
+   <property name="mlt_service">dynamic_loudness</property>
+   <property name="kdenlive_id">dynamic_loudness</property>
+   <property name="kdenlive:collapsed">0</property>
   </filter>
  </playlist>
  <playlist id="playlist3">
@@ -1136,7 +1490,7 @@
   <property name="kdenlive:timeline_active">1</property>
   <track hide="video" producer="playlist2"/>
   <track hide="video" producer="playlist3"/>
-  <filter id="filter8">
+  <filter id="filter11">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
   </filter>
@@ -1263,7 +1617,7 @@
   <entry producer="producer27" in="00:00:22.633" out="00:01:10.500">
    <property name="kdenlive:id">3</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter9">
+   <filter id="filter12">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -1279,7 +1633,7 @@
   <entry producer="producer27" in="00:01:11.667" out="00:01:12.267">
    <property name="kdenlive:id">3</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter10">
+   <filter id="filter13">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -1295,7 +1649,7 @@
   <entry producer="producer27" in="00:01:13.267" out="00:01:14.233">
    <property name="kdenlive:id">3</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter11">
+   <filter id="filter14">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -1311,7 +1665,7 @@
   <entry producer="producer27" in="00:01:16.667" out="00:01:44.533">
    <property name="kdenlive:id">3</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter12">
+   <filter id="filter15">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -1327,7 +1681,7 @@
   <entry producer="producer28" in="00:34:51.300" out="00:34:52.967">
    <property name="kdenlive:id">3</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter13">
+   <filter id="filter16">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -1343,7 +1697,7 @@
   <entry producer="producer27" in="00:01:47.900" out="00:03:31.433">
    <property name="kdenlive:id">3</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter14">
+   <filter id="filter17">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -1372,7 +1726,7 @@
   <entry producer="producer13" in="00:00:00.000" out="00:00:04.233">
    <property name="kdenlive:id">6</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter15">
+   <filter id="filter18">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -1449,7 +1803,7 @@
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter16">
+  <filter id="filter19">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
   </filter>
